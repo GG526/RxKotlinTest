@@ -1,6 +1,5 @@
 package com.seven.rxkotlintest.view
 import android.databinding.DataBindingUtil
-import android.databinding.Observable
 import android.databinding.ViewDataBinding
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
